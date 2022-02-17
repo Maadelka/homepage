@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+body{
+    background-color: rgb(51, 51, 51);
+    height: 2000px;
+}
+
+
+
+.contain{
+    z-index:  1030;
+    top: 0;
+    left: 0;
+    right: 0;
+}
+.contain .logo{
+    font-family: 'Open Sans', sans-serif;
+}
+
